@@ -23,12 +23,11 @@ export default function Index() {
 
   return (
     <div style={{ textAlign: "center", padding: 20 }}>
-      <h2>Welcome to Remix!</h2>
-      <p>
-        <a href="https://remix.run/dashboard/docs">Check out the docs</a> to get
-        started.
-      </p>
+      <h2>Welcome to Future Site of my Homepage!</h2>
+
       <p>Message from the loader: {data.message}</p>
+      <p>Hello, Ashley. You're beautiful.</p>
+      <p>Love, Axhon 😘</p>
     </div>
   );
 }
