@@ -6,7 +6,8 @@
   "scripts": {
     "build": "remix build",
     "dev": "remix dev",
-    "start": "vercel dev"
+    "start": "vercel dev",
+    "deploy": "vercel ."
   },
   "dependencies": {
     "@remix-run/react": "^0.17.5",
