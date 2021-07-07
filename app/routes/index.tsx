@@ -5,8 +5,8 @@ import stylesUrl from "../styles/index.css";
 
 export let meta: MetaFunction = () => {
   return {
-    title: "Remix Starter",
-    description: "Welcome to remix!"
+    title: "Axhon Writes Code",
+    description: "Homepage for Axhon"
   };
 };
 
